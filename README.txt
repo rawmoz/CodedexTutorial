@@ -1,1 +1,1 @@
-Stuff
+Learning tutorial. Understanding the basics of Git and Github
